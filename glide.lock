@@ -1,0 +1,6 @@
+hash: 91964ffc5404b38e227ccba319056a17190316d9ad6b9fce031339fbd6493754
+updated: 2017-06-07T09:53:50.819300001-07:00
+imports:
+- name: github.com/uber-go/dosa
+  version: 1c234aead44abf9a71fdf4aa4dca79db1791c01f
+testImports: []

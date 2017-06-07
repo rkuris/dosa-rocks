@@ -1,0 +1,4 @@
+package: github.com/rkuris/dosa-rocks
+import:
+- package: github.com/uber-go/dosa
+  version: ^2.1.0
